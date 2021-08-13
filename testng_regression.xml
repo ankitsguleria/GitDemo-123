@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MavenDemo1">
+	<test name="Regression_Module">
+		<classes>
+			<class name="AutomationPractice.MavenTestProject.TestClassA" />
+			<class name="AutomationPractice.MavenTestProject.TestClassB" />
+			<class name="AutomationPractice.MavenTestProject.TestClassC">
+			</class>
+		</classes>
+	</test>
+</suite>

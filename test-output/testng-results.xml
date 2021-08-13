@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MavenDemo" duration-ms="68" started-at="2021-07-15T17:53:00Z" finished-at="2021-07-15T17:53:01Z">
+    <groups>
+    </groups>
+    <test name="TestNGThroughMaven" duration-ms="68" started-at="2021-07-15T17:53:00Z" finished-at="2021-07-15T17:53:01Z">
+      <class name="AutomationPractice.MavenTestProject.TestClassC">
+        <test-method status="PASS" signature="Method5()[pri:0, instance:AutomationPractice.MavenTestProject.TestClassC@14acaea5]" name="Method5" duration-ms="2" started-at="2021-07-15T17:53:01Z" finished-at="2021-07-15T17:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method5 -->
+        <test-method status="PASS" signature="Method6()[pri:0, instance:AutomationPractice.MavenTestProject.TestClassC@14acaea5]" name="Method6" duration-ms="2" started-at="2021-07-15T17:53:01Z" finished-at="2021-07-15T17:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method6 -->
+      </class> <!-- AutomationPractice.MavenTestProject.TestClassC -->
+      <class name="AutomationPractice.MavenTestProject.TestClassB">
+        <test-method status="PASS" signature="Method3()[pri:0, instance:AutomationPractice.MavenTestProject.TestClassB@224edc67]" name="Method3" duration-ms="2" started-at="2021-07-15T17:53:01Z" finished-at="2021-07-15T17:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method3 -->
+        <test-method status="PASS" signature="Method4()[pri:0, instance:AutomationPractice.MavenTestProject.TestClassB@224edc67]" name="Method4" duration-ms="2" started-at="2021-07-15T17:53:01Z" finished-at="2021-07-15T17:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method4 -->
+      </class> <!-- AutomationPractice.MavenTestProject.TestClassB -->
+      <class name="AutomationPractice.MavenTestProject.TestClassA">
+        <test-method status="PASS" signature="Method1()[pri:0, instance:AutomationPractice.MavenTestProject.TestClassA@4c70fda8]" name="Method1" duration-ms="12" started-at="2021-07-15T17:53:01Z" finished-at="2021-07-15T17:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+        <test-method status="PASS" signature="Method2()[pri:0, instance:AutomationPractice.MavenTestProject.TestClassA@4c70fda8]" name="Method2" duration-ms="2" started-at="2021-07-15T17:53:01Z" finished-at="2021-07-15T17:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method2 -->
+      </class> <!-- AutomationPractice.MavenTestProject.TestClassA -->
+    </test> <!-- TestNGThroughMaven -->
+  </suite> <!-- MavenDemo -->
+</testng-results>
