@@ -15,5 +15,11 @@ public class TestClassA {
 		System.out.println("Inside Method2");
 
 	}
+	
+	@Test
+	public void MethodXYZ() {
+		System.out.println("Inside MethodXYZ");
+
+	}
 
 }
